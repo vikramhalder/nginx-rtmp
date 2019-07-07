@@ -1,4 +1,4 @@
-#How set up nginx REMP Server
+# How set up nginx REMP Server
 ##### Step 1
 ```aidl
 First of all please don't install nginx 
