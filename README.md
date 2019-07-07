@@ -103,3 +103,8 @@ Your rtmp url
 ```
  rtmp://127.0.0.1:1935/show/
 ```
+### OBS Client Configuration
+```ecma script level 4
+
+```
+/i/https://www.youtube.com/watch?v=40YmA1kEPWY
